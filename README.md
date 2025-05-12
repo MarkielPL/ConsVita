@@ -1,5 +1,4 @@
-# 📱 Flutter Weather & To-Do App 
-#   Dokumentacja i Struktura Projektu
+# 📱 Flutter Weather & To-Do App - Dokumentacja i Struktura Projektu
 
 Nazwa aplikacji pochodzi od połączenia łacińskiego planować życie - consilium vitae = Consvita
 
