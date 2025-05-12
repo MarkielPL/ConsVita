@@ -4,9 +4,9 @@ Nazwa aplikacji pochodzi od połączenia łacińskiego planować życie - consil
 
 ## „Pierwsze kroki”: 
 ```
->flutter pub get
->flutter run
->flutter clean
+flutter pub get
+flutter run
+flutter clean
 ```
 ### 🧠 Organizacja kodu
 Wysoki stopień złożoności wymaga dobrej organizacji kodu:
