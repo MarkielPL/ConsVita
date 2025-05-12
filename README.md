@@ -4,6 +4,8 @@ Nazwa aplikacji pochodzi od połączenia łacińskiego planować życie - consil
 # założenia początkowe
 ## „Pierwsze kroki”: 
 ```
+flutter pub upgrade --major-versions
+
 flutter clean
 flutter pub get
 flutter run
