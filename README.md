@@ -8,6 +8,7 @@ flutter pub upgrade --major-versions
 
 flutter clean
 flutter pub get
+flutter pub run intl_utils:generate
 flutter run
 ```
 ### 🧠 Organizacja kodu
