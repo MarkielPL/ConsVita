@@ -52,11 +52,11 @@ lib/                                     utworzone                  opis
 │   │   │
 │   │   └───widgets
 │   ├───home                                ✅             # Zakładka 1: Główna
-│   │   │   home_screen.dart
+│   │   │   home_screen.dart                
 │   │   │
 │   │   └───widgets
 │   ├───settings                            ✅             # Zakładka 4: Ustawienia
-│   │   │   settings_screen.dart
+│   │   │   settings_screen.dart            ✅             # UI ustawień + logika
 │   │   │
 │   │   └───widgets
 │   └───weather                             ✅             # Zakładka 2: Pogoda
