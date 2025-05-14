@@ -8,9 +8,20 @@ flutter pub upgrade --major-versions
 
 flutter clean
 flutter pub get
-flutter pub run intl_utils:generate
-flutter run
+flutter run -d windows
 ```
+Polecenia klawiszowe 
+
+```
+r Hot reload.
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).      
+c Clear the screen
+q Quit (terminate the application on the device).
+```
+
+
 ### 🧠 Organizacja kodu
 Wysoki stopień złożoności wymaga dobrej organizacji kodu:
 
