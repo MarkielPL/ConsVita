@@ -2,7 +2,7 @@
 
 Nazwa aplikacji pochodzi od połączenia łacińskiego planować życie - consilium vitae = Consvita
 # założenia początkowe
-### „Pierwsze kroki”: 
+„Pierwsze kroki”: 
 ```
 flutter pub upgrade --major-versions
 
