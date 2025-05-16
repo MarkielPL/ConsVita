@@ -26,48 +26,48 @@ q Quit (terminate the application on the device).
 Wysoki stopień złożoności wymaga dobrej organizacji kodu:
 
 ```
-lib/                                     utworzone                  opis
+lib/                                                      opis
 │   app.dart
-│   main.dart                               ✅             # punkt startowy aplikacji
-│   README.md                               ✅             # opis projektu
+│   main.dart                                             # punkt startowy aplikacji
+│   README.md                                             # opis projektu
 │
-├───core                                    ✅             # ogólne konfiguracje, motywy
+├───core                                                  # ogólne konfiguracje, motywy
 │   │   constants.dart     
-│   │   global_imports.dart                 ✅             # zarządzanie importy
+│   │   global_imports.dart                               # zarządzanie importy
 │   │   utils.dart
 │   │
 │   └───themes
-├───lang                                    ✅             # tłumaczenia
+├───lang                                                  # tłumaczenia
 │       intl_en.arb
 │       intl_pl.arb
 │
-├───models                                  ✅             # wspólne modele danych
+├───models                                                # wspólne modele danych
 │       settings_model.dart
 │       todo_model.dart
 │       weather_model.dart
 │
 ├───screens
-│   ├───calendar                            ✅             # Zakładka 3: To-Do + Kalendarz
+│   ├───calendar                                          # Zakładka 3: To-Do + Kalendarz
 │   │   │   calendar_screen.dart
 │   │   │
 │   │   └───widgets
-│   ├───home                                ✅             # Zakładka 1: Główna
+│   ├───home                                              # Zakładka 1: Główna
 │   │   │   home_screen.dart                
 │   │   │
 │   │   └───widgets
-│   ├───settings                            ✅             # Zakładka 4: Ustawienia
-│   │   │   settings_screen.dart            ✅             # UI ustawień + logika
+│   ├───settings                                          # Zakładka 4: Ustawienia
+│   │   │   settings_screen.dart                          # UI ustawień + logika
 │   │   │
 │   │   └───widgets
-│   └───weather                             ✅             # Zakładka 2: Pogoda
+│   └───weather                                           # Zakładka 2: Pogoda
 │       │   weather_screen.dart
 │       │
 │       └───widgets
-├───services                                ✅             # usługi globalne: API, lokalizacja, notyfikacje
+├───services                                              # usługi globalne: API, lokalizacja, notyfikacje
 │   ├───api
 │   ├───location
 │   └───storage
-└───widgets                                 ✅             # globalne widgety wspólne
+└───widgets                                               # globalne widgety wspólne
         custom_button.dart
 ```
 
