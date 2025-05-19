@@ -80,7 +80,7 @@ lib/                                                      opis
 | Czcionki                   | `google_fonts`                           | [🔗](https://pub.dev/packages/google_fonts)                                                                   |
 | Zarządzanie stanem         | `flutter_bloc` / `provider` / `riverpod` | [🔗](https://medium.com/@punithsuppar7795/flutter-state-management-provider-vs-riverpod-vs-bloc-557938a3d54e) |
 | Ustawienia/cache           | `shared_preferences`                     | [🔗](https://pub.dev/packages/shared_preferences)                                                             |
-| Lokalizacje systemowe      | `flutter_localizations`                  | [🔗](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)                 |
+| Lokalizacje systemowe      | `flutter_localizations`                  | [🔗](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)                 | https://localizely.com/blog/flutter-localization-step-by-step/?tab=using-gen-l10n
 | Lokalizacja językowa       | `intl`                                   | [🔗](https://pub.dev/packages/intl)                                                                           |
 | Iniekcja zależności        | `get_it`                                 | [🔗](https://pub.dev/packages/get_it)                                                                         |
 | Ikony SVG                  | `flutter_svg`                            | [🔗](https://pub.dev/packages/flutter_svg)                                                                    |
