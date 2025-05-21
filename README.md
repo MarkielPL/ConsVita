@@ -139,7 +139,7 @@ lib/                                                      opis
 | Można też wykorzystanić            | `google_maps_flutter`, `geolocator`,     |
 |                                    | `weather_icons`                          |
 
-wykorzystane [🔗](https://github.com/basmilius/weather-icons/tree/dev/production/fill/png/1024)
+wykorzystane ikony pogodowe **weather icons** [🔗](https://github.com/basmilius/weather-icons/tree/dev/production/fill/png/1024)
 
 
 ## 🗓️ Zakładka 3: To-Do + Kalendarz
