@@ -20,7 +20,10 @@ d Detach (terminate "flutter run" but leave application running).
 c Clear the screen
 q Quit (terminate the application on the device).
 ```
-
+Jeśli cośnie działa:
+```
+flutter doctor
+```
 
 ### 🧠 Organizacja kodu
 Wysoki stopień złożoności wymaga dobrej organizacji kodu:
