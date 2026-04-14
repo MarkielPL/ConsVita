@@ -20,7 +20,7 @@ d Detach (terminate "flutter run" but leave application running).
 c Clear the screen
 q Quit (terminate the application on the device).
 ```
-Jeśli cośnie działa:
+Jeśli coś nie działa:
 ```
 flutter doctor
 ```
